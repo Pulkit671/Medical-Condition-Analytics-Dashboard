@@ -3,7 +3,7 @@
 An interactive 📊 **Tableau dashboard** designed to provide comprehensive, data-driven insights into patient demographics, medical conditions, financial metrics, and healthcare utilization. This tool empowers healthcare administrators and analysts to monitor patient volumes, evaluate clinical outcomes, and optimize operational efficiency.
 
 👉 **[View the Live Interactive Dashboard on Tableau Public]
-![Global Green Energy Dashboard](Global_Green_Energy_Dashboard_Image.png)(https://public.tableau.com/views/MedicalConditionAnalyticsDashboard/MedicalConditionAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+![Global Green Energy Dashboard](Medical_Condition_Analytics_Dashboard_Image)(https://public.tableau.com/views/MedicalConditionAnalyticsDashboard/MedicalConditionAnalyticsDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
